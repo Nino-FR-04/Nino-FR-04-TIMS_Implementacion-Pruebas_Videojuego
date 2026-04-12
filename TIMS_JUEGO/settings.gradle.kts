@@ -1,0 +1,1 @@
+rootProject.name = "TIMS_JUEGO"
